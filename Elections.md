@@ -1,0 +1,4 @@
+
+# Elections
+
+Solved using Codeforces 
